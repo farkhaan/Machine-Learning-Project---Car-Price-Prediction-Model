@@ -91,7 +91,7 @@ max_leaf_nodes:   100
 
 ---
 
-##Evaluation Metrics
+## Evaluation Metrics
 
 Models were evaluated using:
 - **MSE** — Mean Squared Error
@@ -133,4 +133,4 @@ The gap between train and test R² indicates moderate overfitting — a known ch
 ## Authors
 
 Group P — KU Eichstätt-Ingolstadt — Farkhan Mustafazade, Elena Erlygina, and Iuliia Dudulina
-Course: *Hands-on Machine Learning and Data Science* (Prof. Felix Voigtlaender)
+Course: *Hands-on Machine Learning and Data Science* (Prof. Felix Voigtlaender), July 2025
